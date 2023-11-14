@@ -2758,6 +2758,7 @@ input, select, textarea {
 		#header input[type="reset"],
 		#header input[type="button"],
 		#header .button {
+			margin-top: 3%;
 			background: #ffffff;
 			color: #544d55;
 		}
